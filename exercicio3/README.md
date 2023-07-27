@@ -9,3 +9,8 @@ Não iremos utilizar o axios nesse exercício, por isso vamos criar nosso própr
 - Crie um estado e coloque seu array como valor inicial (não se preocupe em utilizar a função de atualização)
 - Mapeie o estado, retornando o Card passando as props necessárias para personalização
 - Edite o Card para receber as props e utilizá-las em seu interior
+
+
+
+
+
